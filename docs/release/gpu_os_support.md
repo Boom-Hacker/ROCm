@@ -63,6 +63,19 @@ Use Driver Shipped with ROCm
 
 ::::
 
+| Name | Architecture |[LLVM Target](https://www.llvm.org/docs/AMDGPUUsage.html#processors) | Support|
+|:----:|:------------:|:--------------------------------------------------------------------:|:-------:|
+| AMD Radeon™ 6750XT   | RDNA2  | gfx1031 | ✅ |(Community)
+| AMD Radeon™ 6800     | RDNA2  | gfx1030 | ✅ |(Theoretical)
+| AMD Radeon™ 6800XT   | RDNA2  | gfx1030 | ✅ |(Theoretical)
+| AMD Radeon™ 6900XT   | RDNA2  | gfx1030 | ✅ |(Theoretical)
+| AMD Radeon™ 6950XT   | RDNA2  | gfx1030 | ✅ |(Theoretical)
+Community support by Boom-Hacker:https://github.com/Boom-Hacker/ROCm
+
+:::
+
+::::
+
 ### Support Status
 
 - ✅: **Supported** - AMD enables these GPUs in our software distributions for
