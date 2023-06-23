@@ -72,11 +72,11 @@ Use Driver Shipped with ROCm
 | AMD Radeon™ 6950XT   | RDNA2  | gfx1030 | (Theoretical) |
 | AMD Radeon™ 7900XT   | RDNA3  | gfx1100 | (Theoretical) |
 | AMD Radeon™ 7900XTX   | RDNA3  | gfx1100 | (Theoretical) |
-Community support by Boom-Hacker:https://github.com/Boom-Hacker/ROCm
 
 :::
 
 ::::
+Community support by Boom-Hacker:https://github.com/Boom-Hacker/ROCm
 
 ### Support Status
 
@@ -85,6 +85,9 @@ Community support by Boom-Hacker:https://github.com/Boom-Hacker/ROCm
 - ⚠️: **Deprecated** - Support will be removed in a future release.
 - ❌: **Unsupported** - This configuration is not enabled in our software
   distributions.
+- **Community** - Support by community.(not stable)
+- **Theoretical** - Support by theoretical.
+
 
 ## CPU Support
 
